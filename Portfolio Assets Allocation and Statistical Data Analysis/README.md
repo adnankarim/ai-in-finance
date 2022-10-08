@@ -41,3 +41,4 @@ The answer depends on many factors such as clients risk tolerance, target return
 * There are many asset classes such as: Equities (stocks) Fixed income securities (Bonds) Cash and equivalents Exchange Traded Funds Real estate Commodities.
 * Lets take a look at an example: 
 ![ASSET ALLOCATION  Example](./images/example1.png)
+![ASSET ALLOCATION  Example](./images/overall-portfolio.png)
