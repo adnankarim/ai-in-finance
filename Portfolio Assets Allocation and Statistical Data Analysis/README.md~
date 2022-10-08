@@ -1,3 +1,0 @@
-# Portfolio Assets Allocation and Statistical Data Analysis
-## Introduction
-In this project, instead of analysing individual stocks, we will create° function to perform portfolio analysis such as calculating portfolio returns, risk and Sharpe ratio. A portfolio is a collection of financial investments such as stocks, fixed income securities (bonds), cash, mutual funds and Exchange Traded Funds (ETFs). Lets assume that you have S1M dollars to invest in the market, how can you allocate these assets among a selected set of securities? Should you invest them all in Apple? S&P500? Bonds? The answer depends on many factors such as clients risk tolerance, target returns and investment time span. 
