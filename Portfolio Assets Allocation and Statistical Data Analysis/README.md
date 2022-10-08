@@ -40,4 +40,4 @@ The answer depends on many factors such as clients risk tolerance, target return
 * The goal of portfolio managers is to maximize returns and reduce risks. 
 * There are many asset classes such as: Equities (stocks) Fixed income securities (Bonds) Cash and equivalents Exchange Traded Funds Real estate Commodities.
 * Lets take a look at an example: 
-![ASSET ALLOCATION  Example](/images/example1.png "ASSET ALLOCATION  Example.")
+![ASSET ALLOCATION  Example](/images/example1.png)
